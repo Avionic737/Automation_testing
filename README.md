@@ -1,5 +1,7 @@
 # Автоматизация тестирования с помощью Selenium и Python
-
+## Запуск автотестов для разных языков интерфейса
+## Задание для шага 3.6 PyTest — параметризация, конфигурирование, плагины
+###
 ![Stepik](https://img.shields.io/badge/Course-Stepik-orange)
 ![Selenium](https://img.shields.io/badge/Selenium-4.13.0-green)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
